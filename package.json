@@ -1,0 +1,11 @@
+{
+  "name": "gradientgen",
+  "version": "0.0.1",
+  "description": "Web tool for creating gradient color pallets between two chosen colors",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "nathanbuckley",
+  "license": "ISC"
+}
